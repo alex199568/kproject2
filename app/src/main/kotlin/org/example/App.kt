@@ -11,5 +11,7 @@ object App {
 
         val p = Point(2, 3, 4)
         println(p)
+
+        println(Color.white)
     }
 }
